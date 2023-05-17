@@ -8,7 +8,7 @@ This C++ program combines all `.txt` files in a given input folder into a single
 - CMake 3.8 or later (optional, for building using CMake)
 - Filesystem library support (C++17)
 
-## Compilation
+## Compilation (make sure you have GCC compiler installed)
 
 ### - Bash
 
