@@ -51,7 +51,6 @@ int main() {
     outputFile.close();
     std::cout << "\n\n[+]Files combined successfully![+]\n" << std::endl;
 
-    // Wait for the user to press Enter before exiting
     std::cout << "Press Enter to exit the program...";
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cin.get();
